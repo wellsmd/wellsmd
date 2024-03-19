@@ -23,15 +23,5 @@
   <li>More: REST APIs, JUnit testing, Dagger dependency injection, Postman, UML class and sequence Diagrams, SQL</li>
 </ul>
 
-Documentation Subjects
-SDKs, APIs, network processing software and hardware, Java/SQL RDBMS software, embedded systems software, real-time operating systems, compilers, assemblers, debuggers, transaction processing software, configuration management tools, and game component hardware.
-
-Other skills
-Coordinating projects, developing and improving processes, and learning crazy new things.
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellsmd&show_icons=true&locale=en&layout=compact" alt="wellsmd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wellsmd&show_icons=true&locale=en" alt="wellsmd" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wellsmd&" alt="wellsmd" /></p>
-
+<h3 align="left">Documentation Subjects</h3>
+<p>SDKs, APIs, network processing software and hardware, Java/SQL RDBMS software, embedded systems software, real-time operating systems, compilers, assemblers, debuggers, transaction processing software, configuration management tools, and game component hardware.</p>

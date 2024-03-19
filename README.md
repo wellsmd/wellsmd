@@ -1,9 +1,10 @@
-<h2 align="center">Hi, I'm Mike Wells</h2>
-<h3 align="center">Backend developer in Redmond, WA</h3>
+<h2 align="center">Mike Wells</h2>
+<hr>
+<h3 align="center">Java Backend Developer in Redmond, WA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wellsmd&label=Profile%20views&color=0e75b6&style=flat" alt="wellsmd" /> </p>
+<p>I'm an aspiring software developer with a Computer Science degree and a background in technical writing at both Nintendo and a variety of Silicon Valley companies. You can see some of my projects in the Pinned Repos below.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellsmd" alt="wellsmd" /></a> </p>
+<p>I recently completed <a href="https://www.bloomtech.com/courses/backend-development">Bloomtech's Backend Development program</a> that was co-developed with <a href="https://amazontechnicalacademy.com/training-providers">Amazon</a> catch up on all the developments that have occurred since I got my CS degree.</p>
 
 - 🔭 I’m currently working on **URL shortener**
 
@@ -14,8 +15,19 @@
 <a href="https://linkedin.com/in/michael-david-wells/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-david-wells/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h3 align="left">Technical Skills</h3>
+<ul>
+  <li>Languages: Java, Javascript, HTML, CSS, Python</li>
+  <li>Frameworks: Spring Boot, React, Axios</li>
+  <li>Amazon Web Services: Lambda, DynamoDB, API Gateway, CloudFormation, CloudWatch</li>
+  <li>More: REST APIs, JUnit testing, Dagger dependency injection, Postman, UML class and sequence Diagrams, SQL</li>
+</ul>
+
+Documentation Subjects
+SDKs, APIs, network processing software and hardware, Java/SQL RDBMS software, embedded systems software, real-time operating systems, compilers, assemblers, debuggers, transaction processing software, configuration management tools, and game component hardware.
+
+Other skills
+Coordinating projects, developing and improving processes, and learning crazy new things.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wellsmd&show_icons=true&locale=en&layout=compact" alt="wellsmd" /></p>
 
